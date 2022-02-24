@@ -45,8 +45,8 @@ After the payment has been done a pop up and image will be shown.
 # Roles & Responsibilities:-
 * The Signin/Signup page is done by Shubham.
 * Next Page Done by Ashish
-* Product Page done by Rahul.
-* Payment Page done by Tushar
+* Product Page done by Tushar.
+* Payment Page done by Rahul.
 
 
 # Challenge-:
